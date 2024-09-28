@@ -2,7 +2,7 @@
 
 Este projeto consiste em resolver as 18 questões preparatórias para a prova de C. As questões possuem diferentes níveis de dificuldade, com pontuação variando de 5 até 45 pontos.
 
-As respostas estão organizadas em pastas, uma para cada pergunta, nomeadas como `pergunta_01` até `pergunta_18`.
+As respostas estão organizadas em arquivos nomeadas como `pergunta_01` até `pergunta_18`.
 
 ### Perguntas e Pontuação:
 
