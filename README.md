@@ -275,7 +275,7 @@ Exemplo:
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd nome-do-repositorio
+   cd revis-o-prova-de-C
    ```
 
 3. Compile e execute cada questão individualmente conforme seu compilador de C. Por exemplo, para a **pergunta 1**:
